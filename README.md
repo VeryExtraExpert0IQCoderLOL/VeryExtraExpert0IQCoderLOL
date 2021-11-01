@@ -4,6 +4,7 @@
 - gender = boy
 - i play games such as gat san andreas , red dead redemption 2. 
 - im in discord most of time 
+- i dont made bot my self (codes too) so thanks to my friend for making it :)))
 
 
 <!---
